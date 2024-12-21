@@ -1,0 +1,313 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+background: #FFF;
+}
+
+header {
+width: 1237px;
+margin: 0 auto;
+}
+
+h1 {
+color: #000;
+font-family: Lato;
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+margin-bottom: 37px;
+}
+
+#contentMother {
+width:1810px;
+margin: 0 auto;
+}
+
+#topContent {
+width:568px;
+}
+
+#topMain {
+width: 568px;
+}
+
+#starryNight {
+  height: 446px;
+  width: 568px;
+}
+
+#textContent {
+margin-top: 12px;
+margin-bottom: 32px;
+width: 568px;
+}
+
+#headingTwo {
+color: #000;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+#paragraphDiv {
+margin-top: 16px;
+margin-bottom: 16px;
+}
+
+#paragraphOne {
+color: #414651;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#olDiv {
+width: 568px;
+list-style-position: inside;
+color: #155EEF;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+position: relative; 
+vertical-align: middle
+}
+
+#topBottom {
+display: inline-block;
+}
+
+#ReadMore {
+padding: 12px 32px;
+border: 2px solid #CEA201;
+width: 177px;
+color: #CEA201;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+#bottomContent {
+width: 722px;
+margin-top: 74px;
+margin-bottom: 119px;
+}
+
+#bottomOne {
+margin-bottom: 24px;
+width: 722px;
+}
+
+#headingThree {
+color: #000;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+#divText {
+margin-top: 16px;
+}
+
+#paragraphTwo {
+color: #414651;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#bottomTwo {
+margin-bottom: 24px;
+width: 722px;
+}
+
+#bottomTwoSon {
+width: 722px;
+}
+
+#Works {
+color: #00C76E;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 16px;
+}
+
+#SonsD {
+width: 461px;
+margin: 0 auto;
+}
+
+
+#olTwo {
+color: #FF5DA3;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+list-style-position: inside;
+}
+
+#butterflyImg {
+width: 200px;
+height: 200px;
+margin-top: 24px;
+}
+
+#bottomThree {
+margin-top: 24px;
+margin-bottom: 24px;
+width: 722px;
+}
+
+#threeMom {
+padding: 16px;
+border: 6px solid #C11574;
+background: #FFDEF0;
+width: 722px;
+}
+
+#threeHeading {
+margin-bottom: 16px;
+}
+
+#headingForThree {
+color: #414651;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px;
+}
+
+#rectangleList {
+width: 495 px;
+vertical-align: middle;
+}
+
+#recOne {
+width: 16px;
+height: 16px;
+border-radius: 90px;
+background: #000;
+vertical-align: middle;
+margin-right: 12px;
+}
+
+#recTwo {
+width: 16px;
+height: 16px;
+border-radius: 90px;
+background: #000;
+vertical-align: middle;
+margin-right: 12px;
+}
+
+#recThree {
+width: 16px;
+height: 16px;
+border-radius: 90px;
+background: #000;
+vertical-align: middle;
+margin-right: 12px;
+}
+
+#rOneLi{
+color: #C27512;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#rTwoLi {
+color: #C27512;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#rThreeLi {
+color: #C27512;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#recOneMain {
+margin-bottom: 8px;
+}
+
+#recTwoMain {
+margin-bottom: 8px;
+}
+
+#recThreeMain {
+margin-bottom: 8px;
+}
+
+#lastImg {
+margin-top: 24px;
+}
+
+#unknown {
+width: 298.012px;
+height: 396px;
+}
+
+#bootomLink {
+text-align: right;
+}
+
+#lastLink {
+color: #00D4BC;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+margin-bottom: 119px;
+}
